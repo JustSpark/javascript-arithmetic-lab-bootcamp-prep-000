@@ -18,5 +18,5 @@ function dec(a) {
 }
 function makeInt(n) {
   return parseInt(n)
-  if makeInt('assumes base 10')
-  return 
+  if (makeInt('assumes base 10'))
+  return 0 }
