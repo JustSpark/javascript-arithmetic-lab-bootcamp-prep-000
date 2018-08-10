@@ -18,8 +18,7 @@ function dec(a) {
 }
 function makeInt(n) {
   return parseInt()
-  if (makeInt('assumes base 10'))
-  return 0 }
+  
 function preserveDecimal(n) {
   return parseFloat(n)
   
