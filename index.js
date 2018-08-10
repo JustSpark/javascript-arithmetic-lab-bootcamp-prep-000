@@ -20,4 +20,4 @@ function makeInt(n) {
   return parseInt(n)
   if (makeInt('assumes base 10'))
   return 0 }
-  
+function preserveDecimal()
